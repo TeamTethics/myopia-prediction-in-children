@@ -7,3 +7,4 @@ This is the project of myopia prediction which can provide you a probability in 
 # First you have to run final_flask.py
 # Then open index.html
 
+https://docs.google.com/document/d/13tZvxaD6O9pz8bkL4pdl3EdQM8HbZXKg6E2HlaBfzlw/edit?usp=sharing
