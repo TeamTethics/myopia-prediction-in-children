@@ -13,6 +13,7 @@ You have to install python libararies like
 -sklearn
 -flask_cors
 
-step 2)First you have to run final_flask.py
+step 2)First you have to run final_flask.py  
+
 step 3)open index.html
 
