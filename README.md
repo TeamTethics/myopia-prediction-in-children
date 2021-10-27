@@ -1,9 +1,17 @@
 # team-tethics---hack-gujarat
 # Project For Hack Gujarat Hackathon
-This is the project of myopia prediction which can provide you a probability in percentage of that.
+This is the project of myopia prediction which can provide you a probability of chidren getting diagnosed of myopia.
 
-# You hve to install python libararies like # json # flask # pandas # requests # numpy # pickle # sklearn # numpy # flask_cors
+step 1)You have to install python libararies like 
+-Flask
+-pandas
+-requests
+-numpy
+-pickle
+-sklearn
+-numpy
+-flask_cors
 
-# First you have to run final_flask.py
-# Then open index.html
+step 2)First you have to run final_flask.py
+step 3)open index.html
 
